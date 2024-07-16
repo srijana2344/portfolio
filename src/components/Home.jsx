@@ -1,5 +1,5 @@
 import React from "react";
-import srijanacopyImage from "../assets/srijana copy.jpg";
+import srijanaImage from "../assets/srijana.jpg";
 import { FaFacebook, FaGithub, FaLinkedin } from "react-icons/fa";
 
 const Home = () => {
@@ -22,7 +22,7 @@ const Home = () => {
         <div>
           <div>
             <img
-              src={srijanacopyImage}
+              src={srijanaImage}
               alt="my profile"
               className="rounded-2xl mx-auto w-2/3 md:w-full"
             />
