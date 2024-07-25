@@ -67,14 +67,13 @@ const Home = () => {
           {/* Download CV Button */}
           <div>
            
-            <a
+          <a
   href="/SrijanaKCResume.pdf"
   download
   className="text-white hover:text-gray-300 mt-4 inline-block bg-blue-500 px-4 py-2 rounded-md hover:bg-blue-700"
 >
   Download CV
 </a>
-
           </div>
         </div>
       </div>
