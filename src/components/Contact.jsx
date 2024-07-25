@@ -43,7 +43,7 @@ const Contact = () => {
               Let's talk
                
             </button>
-            @copyright srijanak.c 
+            
           </form>
           
         </div>
