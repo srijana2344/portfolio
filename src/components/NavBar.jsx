@@ -13,6 +13,7 @@ const NavBar = () => {
     { id: 2, link: "portfolio" },
     { id: 3, link: "experience" },
     { id: 4, link: "contact" },
+     
   ];
 
   useEffect(() => {

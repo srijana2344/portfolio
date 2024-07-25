@@ -40,7 +40,7 @@ const Home = () => {
           {/* Social Icons */}
           <div className="flex space-x-4 mt-4">
             <a
-              href="https://www.facebook.com/sri.jana.12576/"
+              href="https://www.facebook.com/srijana.k.c.9887117/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white hover:text-gray-300"
